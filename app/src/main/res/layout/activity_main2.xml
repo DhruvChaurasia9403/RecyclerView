@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:padding="16dp"
+    tools:context=".MainActivity2">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/imageMA2"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="16dp"
+        app:shapeAppearanceOverlay="@style/help"
+        android:adjustViewBounds="true"
+        android:src="@drawable/img1"/>
+
+    <TextView
+        android:id="@+id/headingMA2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#333333"
+        android:text="Demon Slayer"
+        android:textSize="24sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/descriptionMA2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="sans-serif"
+        android:text="It's based on how a boy named Tanjiro Kamado becomes a demon slayer and how he fights with demons to save his sister."
+        android:textSize="16sp"
+        android:textColor="#666666"
+        />
+
+</LinearLayout>

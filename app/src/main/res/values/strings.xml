@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Recyclee View</string>
+    <string name="item1">
+        Demon Slayer, known as Kimetsu no Yaiba in Japanese, is a critically acclaimed anime and manga series.It follows the story of Tanjiro Kamado, a kind-hearted boy turned demon slayer after his family is slaughtered by demons.With his sister Nezuko turned into a demon, Tanjiro embarks on a journey to avenge his family and find a cure for her.Along the way, he joins the Demon Slayer Corps, facing powerful demons and unraveling the mysteries of the demon world.
+    </string>
+
+    <string name="item2">
+        Tokyo Revengers is a thrilling time-travel and delinquent-themed anime. It tells the story of Takemichi Hanagaki,an ordinary guy who discovers a way to travel back in time. He aims to save his ex-girlfriend Hinata from a tragic fateand change the lives of his friends. In a world of rival gangs and complex relationships, Takemichi must navigatethe past to reshape the future.
+    </string>
+
+    <string name="item3">
+        Death Note is a psychological thriller that centers around Light Yagami, a high school student who stumbles upona mysterious notebook that can kill anyone whose name is written in it. Light decides to use the Death Note toeliminate criminals and reshape the world according to his ideals. His actions lead to a cat-and-mouse game withthe enigmatic detective L, resulting in a complex battle of wits.
+    </string>
+
+    <string name="item4">
+        One Punch Man is a comedic action anime that follows Saitama, a hero who can defeat any opponent with a single punch.This leads to his boredom and a quest to find a worthy adversary. Along the way, he encounters a diverse range of heroes,villains, and monsters, creating a humorous and action-packed journey.
+    </string>
+
+    <string name="item5">
+        Dragon Ball Z is an iconic series that continues the adventures of Goku, a Saiyan warrior.The story involves epic battles against powerful foes, the search for Dragon Balls, and the explorationof the Dragon Ball universe. With transformations and intense martial arts, it\'s a classic anime with a huge fanbase.
+    </string>
+
+    <string name="item6">
+        One Piece is a long-running epic about Monkey D. Luffy, who becomes a pirate with a crew in search of the ultimate treasure,the One Piece. Along the way, they face formidable foes, navigate the Grand Line, and explore mysterious islands.The series is known for its rich world-building, diverse characters, and Luffy\'s dream of becoming the Pirate King.
+    </string>
+
+    <string name="item7">
+        Jujutsu Kaisen follows Yuji Itadori, who gets involved in the world of curses and sorcery after a supernatural incident.He joins the Jujutsu High School to combat curses and save lives. The series features intense battles, unique curses,and complex characters, offering a dark and thrilling experience.
+    </string>
+
+    <string name="item8">
+        Naruto is the story of Naruto Uzumaki, a young ninja with dreams of becoming the Hokage, the leader of his village.It follows his journey from a mischievous troublemaker to a powerful ninja, facing challenges, making friends, andunearthing secrets. Naruto\'s perseverance and determination inspire many, making it a beloved classic.
+    </string>
+</resources>
